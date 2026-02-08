@@ -1,2 +1,2 @@
 # Contributors for the project:
-Joe Smith
+* Joe Smith
